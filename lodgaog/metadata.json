@@ -1,6 +1,0 @@
-{
-  "name": "Lodga",
-  "description": "A verified, agent-free student accommodation marketplace for FUTMINNA, Nigeria.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
